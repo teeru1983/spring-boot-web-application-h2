@@ -19,4 +19,4 @@ phases:
 
 artifacts:
   files:
-    - target\spring-boot-web-application-h2-0.0.1-SNAPSHOT.jar
+    - target/spring-boot-web-application-h2-0.0.1-SNAPSHOT.jar
