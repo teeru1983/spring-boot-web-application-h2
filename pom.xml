@@ -6,7 +6,7 @@
 
 	<groupId>com.teeru.rest.webservices</groupId>
 	<artifactId>spring-boot-web-application-h2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELEASE</version>
 	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
